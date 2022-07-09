@@ -1,5 +1,5 @@
 # SportsSln
--------------
+
 ## Features
 
 * can filter categories
